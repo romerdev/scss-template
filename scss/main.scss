@@ -14,46 +14,46 @@
 
 // 3. Tools
 @import
-  "3-tools/aspect-ratio.scss",
-  "3-tools/blend-modes.scss",
-  "3-tools/center.scss",
-  "3-tools/clearfix.scss",
-  "3-tools/gradients.scss";
+  "3-tools/aspect-ratio",
+  "3-tools/blend-modes",
+  "3-tools/center",
+  "3-tools/clearfix",
+  "3-tools/gradients";
 
 
 // 4. Generic
 @import
-  "4-generic/box-sizing.scss",
-  "4-generic/font-face.scss",
-  "4-generic/normalize.scss",
-  "4-generic/print.scss";
+  "4-generic/box-sizing",
+  "4-generic/font-face",
+  "4-generic/normalize",
+  "4-generic/print";
 
 
 // 5. Elements
 @import
-  "5-elements/forms.scss",
-  "5-elements/headings.scss",
-  "5-elements/images.scss",
-  "5-elements/links.scss",
-  "5-elements/lists.scss";
+  "5-elements/forms",
+  "5-elements/headings",
+  "5-elements/images",
+  "5-elements/links",
+  "5-elements/lists";
 
 
 // 6. Skeleton
 @import
-  "6-skeleton/grid.scss",
-  "6-skeleton/layouts.scss",
-  "6-skeleton/objects.scss";
+  "6-skeleton/grid",
+  "6-skeleton/layouts",
+  "6-skeleton/objects";
 
 // 7. Components
 @import
-  "7-components/hero.scss";
+  "7-components/hero";
 
 
 // 8. Utilities
 @import
-  "7-components/hero.scss";
+  "7-components/hero";
 
 
 // Shame
 @import
-  "shame.scss";
+  "shame";
